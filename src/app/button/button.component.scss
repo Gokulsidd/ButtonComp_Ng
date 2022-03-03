@@ -1,0 +1,23 @@
+.content{
+
+
+
+    .btn{
+        color: aliceblue;
+        background-color: rgb(22, 223, 22);
+        width: 100px;
+        height: 50px;
+        font-size: 1.2rem;
+        font-family: sans-serif;
+
+        border-radius: 4px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        border: none;
+        cursor: pointer;
+    }
+
+    .btn:hover{
+        background-color: rgb(17, 189, 17);
+        transition: 0.2s ease-out;
+    }
+}
